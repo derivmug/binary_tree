@@ -1,0 +1,7 @@
+[package]
+name = "binary_tree"
+version = "0.1.0"
+authors = ["derivmug <404-response@tuta.io>"]
+edition = "2018"
+
+[dependencies]
